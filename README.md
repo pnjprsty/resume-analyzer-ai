@@ -1,5 +1,5 @@
 # 🚀 AI Career Coach – Empowering Fresh Graduates to Take the First Step
-
+Ini project personal untuk belajar integrasi AI dengan parsing resume. Masih terus dikembangkan.
 ## 🎯 Problem Being Solved
 
 Many fresh graduates struggle with uncertainty when entering the job market:
